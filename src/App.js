@@ -4,7 +4,7 @@ import SignIn from "./SignIn";
 import Dashboard from "./DashBoard";
 function App() {
   return (
-    <Router>
+    <Router basename="/neatskill_clone">
       <Routes>
         <Route path="/" element={<Page />} />
         <Route path="/signin" element={<SignIn />} />
