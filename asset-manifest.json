@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/neatskill_clone/static/css/main.8e902605.css",
+    "main.js": "/neatskill_clone/static/js/main.aed1a32e.js",
+    "index.html": "/neatskill_clone/index.html",
+    "main.8e902605.css.map": "/neatskill_clone/static/css/main.8e902605.css.map",
+    "main.aed1a32e.js.map": "/neatskill_clone/static/js/main.aed1a32e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e902605.css",
+    "static/js/main.aed1a32e.js"
+  ]
+}
